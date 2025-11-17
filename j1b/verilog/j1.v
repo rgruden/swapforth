@@ -1,4 +1,5 @@
-`include "common.h"
+`default_nettype none
+`define WIDTH 32
 
 module j1(
   input wire clk,
